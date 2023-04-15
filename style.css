@@ -1,0 +1,46 @@
+img {
+    border: 1px solid black;
+    width: 70%;
+    margin: auto;
+    display: block;
+}
+
+div {
+    padding: 5px;
+    margin: auto;
+    width: 20%;
+    border-style: outset;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    padding: 9.8%;
+    cursor: pointer;
+}
+
+form {
+    display: inline;
+}
+
+section {
+    margin-bottom: 5%;
+}
+
+#player1 {
+    background-color: lightgreen;
+}
+
+#player2 {
+    background-color: blue;
+}
+
+#reset {
+    background-color: red;
+}
+
+#playingTo {
+    display: inline;
+}
